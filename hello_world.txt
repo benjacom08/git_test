@@ -1,0 +1,3 @@
+Hello, this is just a test.
+Also I'm trying to undestand GIT, and it's kinda hard.
+Well, it's normal since my total time using it has been around 30 minutes.
